@@ -1,6 +1,10 @@
 Hi, Maverick over here 👋🏻
 
-I'm a teacher, designer and developer who loves sports, engineering and build things. With +8 years of experience in project management in the sports industry, involving branding, web development, product development, intellectual property, among others. Pro-active and self-taught, wanting to teach and learn more every day.
+I'm a teacher, designer and developer who loves sports, engineering and build things.
+
+With +8 years of experience in project management in the sports industry, involving branding, web development, product development, intellectual property, among others. 
+
+Pro-active and self-taught, wanting to teach and learn more every day.
 
 <!---
 - 👋 Hi, I’m 
